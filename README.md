@@ -1,6 +1,10 @@
 # Kaggle COVID-19 Prediction
 
 ## Topics Covered
+- **CatBoost** algorithm for regression
+- **Feature Engineering** - add new features using the existing data to boost the training data
+- Encoding **Categorical Data**
+- Handling **time series** data
   
 ## How to run
 1. Build docker image
