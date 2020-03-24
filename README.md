@@ -1,4 +1,5 @@
 # Kaggle COVID-19 Prediction
+## [View Notebook](https://nbviewer.jupyter.org/github/pjindal91/kaggle-covid-19/blob/master/covid-19.ipynb)
 
 ## Topics Covered
 - **CatBoost** algorithm for regression
