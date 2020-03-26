@@ -2,7 +2,7 @@
 ## [View Notebook](https://nbviewer.jupyter.org/github/pjindal91/kaggle-covid-19/blob/master/covid-19.ipynb)
 
 ## Topics Covered
-- **CatBoost** algorithm for regression
+- **XGBoost** algorithm for regression
 - **Feature Engineering** - add new features using the existing data to boost the training data
 - Encoding **Categorical Data**
 - Handling **time series** data
