@@ -2,11 +2,16 @@
 ## [View Notebook](https://nbviewer.jupyter.org/github/pjindal91/kaggle-covid-19/blob/master/covid-19.ipynb)
 
 ## Topics Covered
-- **XGBoost** algorithm for regression
-- **Feature Engineering** - add new features using the existing data to boost the training data
-- Encoding **Categorical Data**
-- Handling **time series** data
-- **Plotly** maps
+- Week 1
+  - **XGBoost** algorithm for regression
+  - **Feature Engineering** - add new features using the existing data to boost the training data
+  - Encoding **Categorical Data**
+  - Handling **time series** data
+  - **Plotly** maps
+- Week 4
+  - Time Series Analysis
+  - **ARIMA** model for prediction
+  - **Linear regression** with lasso and ridge
   
 ## How to run
 1. Build docker image

@@ -1,4 +1,8 @@
-FROM python:3.7
+FROM continuumio/anaconda3
+
+RUN conda install \
+        pydot \
+        graphviz
 
 RUN  pip install  \
         scikit-learn  \
@@ -8,7 +12,8 @@ RUN  pip install  \
         xgboost \ 
         category-encoders \ 
         catboost \
-        seaborn
+        seaborn \
+        statsmodels
 
 EXPOSE 8888
 
